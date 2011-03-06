@@ -1,4 +1,8 @@
 <?php
+/*
+    Developer: Kyle A. Matheny
+    Date Created: 2011/03/04
+*/
 
 class Potato {
 
@@ -214,15 +218,4 @@ class Potato {
 
 }
 
-?>
-
-<?php
-    $couch = new Potato(array(
-        'host'=>'localhost',
-        'port'=>5984,
-        'username'=>'phaygo',
-        'password'=>'track3r5'
-    ));
-
-    print_r($couch->showDoc(array('db'=>'phaygo', 'docId'=>'phagyoAdmin', 'rev'=>'1-2caeeaa64ad8ce1177b0653d24064e0e')));
 ?>
