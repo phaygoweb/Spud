@@ -21,8 +21,8 @@ class Potato {
         }
 
         # Default settings
-        $this->version = '0.1.0';
-        $this->buildDate = '2011/03/05';
+        $this->version = '0.1.1';
+        $this->buildDate = '2011/03/10';
         $this->name = 'Spud';
 
         # Needed variables
@@ -216,4 +216,5 @@ class Potato {
 # - End Document Functions
 
 }
+
 ?>
