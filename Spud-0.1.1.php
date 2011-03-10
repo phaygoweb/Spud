@@ -24,6 +24,7 @@ class Potato {
         $this->version = '0.1.1';
         $this->buildDate = '2011/03/10';
         $this->name = 'Spud';
+        $this->dedication = 'Katelyn M Lewis';
 
         # Needed variables
         $this->url = 'http://'.$this->host.':'.$this->port.'/';
