@@ -23,7 +23,7 @@ class Potato {
         # Default settings
         $this->version = '0.1.1';
         $this->buildDate = '2011/03/10';
-        $this->name = 'Spud';
+        $this->name = 'Spud-Latest';
         $this->dedication = 'Katelyn M Lewis';
 
         # Needed variables
