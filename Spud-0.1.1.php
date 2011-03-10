@@ -28,7 +28,7 @@ class Potato {
 
         # Needed variables
         $this->url = 'http://'.$this->host.':'.$this->port.'/';
-        $this->default_db = '';
+        $this->default_db = ($options['db']) ? $options['db'] : '';
         $this->params = '';
 
         # If a password is present, attempt to use the supplied username and password
