@@ -2,7 +2,7 @@
 /*
     Developer: Kyle A. Matheny
     Date Created: 2011/03/04
-    Last Update: 2011/05/23
+    Last Updated: 2011/05/23
 */
 
 class Potato {
